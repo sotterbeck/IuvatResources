@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "":[
+             { "model":"block/bricks/brick"},
+             { "model":"block/bricks/brick1"},
+             { "model":"block/bricks/brick2"},
+             { "model":"block/bricks/brick3"},
+             { "model":"block/bricks/brick4"}
+        ]
+    }
+}
