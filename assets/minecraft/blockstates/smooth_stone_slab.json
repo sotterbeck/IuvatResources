@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "type=bottom":[
+            { "model": "block/smooth_stone_slab/smooth_stone_slab" },
+			{ "model": "block/smooth_stone_slab/smooth_stone_slab1" },
+			{ "model": "block/smooth_stone_slab/smooth_stone_slab2" },
+			{ "model": "block/smooth_stone_slab/smooth_stone_slab3" }
+        ],
+        "type=top":[
+            { "model": "block/smooth_stone_slab/smooth_stone_slab_top" },
+			{ "model": "block/smooth_stone_slab/smooth_stone_slab_top1" },
+			{ "model": "block/smooth_stone_slab/smooth_stone_slab_top2" },
+			{ "model": "block/smooth_stone_slab/smooth_stone_slab_top3" }
+        ],
+        "type=double":[
+            { "model": "block/smooth_stone_slab/smooth_stone_slab_double" },
+			{ "model": "block/smooth_stone_slab/smooth_stone_slab_double1" },
+			{ "model": "block/smooth_stone_slab/smooth_stone_slab_double2" },
+			{ "model": "block/smooth_stone_slab/smooth_stone_slab_double3" }
+        ]
+    }
+}
