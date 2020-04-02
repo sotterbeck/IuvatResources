@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "":[
+			{ "model": "block/andesite/andesite" },
+			{ "model": "block/andesite/andesite1" },
+			{ "model": "block/andesite/andesite2" },
+			{ "model": "block/andesite/andesite3" },
+			{ "model": "block/andesite/andesite4" }
+		]
+    }
+}
