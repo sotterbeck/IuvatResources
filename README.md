@@ -1,1 +1,1 @@
-![IUVAT RESOURCES](https://www.dropbox.com/s/wusvyc9770r8r6u/iuvat-logo--resources-github-header.png?dl=0)
+![IUVAT RESOURCES](https://previews.dropbox.com/p/thumb/AAxA-A9LSCGd1fFUFt2odyI0AH7fSpyQe9O89gh1Y0hAt5HnsEeqCCqqfwpdANuUx80f6RchQEhlxo8L44I63HmaC2ZBbhJIy3SvbKWxkhRXsQEdRiQmyqRJT_TcEz5QfGGexy1zpcFlVvnEqMWPlRTRd8jwbPE3V0B4jq7VmzPkV9SuAa9Eye9yqZK8GAy7H8IHVLLroDbMAy4NDn-iAzNJHd7bB6EGhlvEOVBOey7jbiSNBscwZZnBMxEyt4M1pYa4tr5onCCZgysNcd8hkM_K91VKploxvv_d8qWCqyuNOLJv81uO-CSR-BIia3WeJEeGnPxTtfnKvTWbBIKz2Ick/p.png?fv_content=true&size_mode=5)
