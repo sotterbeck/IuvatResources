@@ -16,7 +16,7 @@ Iuvat verwendet dieses Resourcepack für das Cities Projekt. Iuvat Resources wur
 1. Lade dir [Git für Windows](https://git-scm.com/download/win) herrunter und installiere es.
 1. Navigiere zu `%appdata%/roaming/.minecraft/resourcepacks` und drücke Rechtsklick
 1. Wähle im Menü `Git Bash Here`
-1. gebe im Terminal `git clone https://github.com/SimBuildings/IuvatResources.git` ein
+1. Gebe im Terminal `git clone https://github.com/SimBuildings/IuvatResources.git` ein
 1. Öffne Minecraft und wähle das Resourcepack aus
 >Tipp: Du kannst mit `git pull` das Resourcepack updaten
 
