@@ -7,13 +7,12 @@ Iuvat verwendet dieses Resourcepack für das Cities Projekt. Iuvat Resources wur
 
 #### ➞ (optional) Wir empfehlen OptiFine. Installiere es für die beste Erfahrung
 🞄 https://www.optifine.net/downloads
-#### ➞ Installationsanleitung (manuell):
+#### ➞ Installationsanleitung (manuell):  
 1. Lade die ZIP der Repository herrunter
 1. Kopiere den sich in der ZIP befindenen Ordner in `%appdata%/roaming/.minecraft/resourcepacks`
 1. Öffne Minecraft und wähle das Resourcepack aus
-1. Profit ...
-![ ](https://www.dropbox.com/s/g1na3nondkpzhs0/iuvat-logo--resources-spacer.png?raw=1)
-#### ➞ Installationsanleitung (mit Git):
+1. Profit ...  
+#### ➞ Installationsanleitung (mit Git):  
 1. Lade dir [Git für Windows](https://git-scm.com/download/win) herrunter und installiere es.
 1. Navigiere zu `%appdata%/roaming/.minecraft/resourcepacks` und drücke Rechtsklick
 1. Wähle im Menü `Git Bash Here`
