@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/signals/signal_base",
 		"texture": "block/signals/signal_base",
-		"lights": "block/signals/signal_stop"
+		"lights": "block/signals/signal_clear_30"
 	},
 	"elements": [ 	 
 		{
