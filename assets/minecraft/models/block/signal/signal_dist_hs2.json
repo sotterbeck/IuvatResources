@@ -2,8 +2,8 @@
 	"__comment": "Designed by SimBuildings with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "block/signals/signal_base",
-		"texture": "block/signals/signal_base",
-		"lights": "block/signals/signal_clear"
+		"texture": "block/signals/signal_base_dist",
+		"lights": "block/signals/signal_dist_hs2"
 	},
 	"elements": [ 	 
 		{
@@ -173,6 +173,58 @@
 			"to": [ 4, 14, 10 ],
 			"faces": {
 				"west": { "uv": [ 10, 0, 14, 4 ], "texture": "#lights" }
+			}
+		},
+		{
+			"__comment": "signal_light 3",
+			"from": [ 3.5, 2, 6 ],
+			"to": [ 4, 6, 10 ],
+			"faces": {
+				"west": { "uv": [ 0, 5, 4, 9 ], "texture": "#lights" }
+			}
+		},
+		{
+			"__comment": "light_border 3 - 1",
+			"from": [ 3, 1.5, 10 ],
+			"to": [ 4, 6.5, 10.5 ],
+			"faces": {
+				"down": { "uv": [ 1.125, 11.25, 1.25, 11.5 ], "texture": "#texture", "rotation": 270 },
+				"up": { "uv": [ 1.25, 11.25, 1.125, 11.5 ], "texture": "#texture", "rotation": 270 },
+				"north": { "uv": [ 0, 9, 5, 10 ], "texture": "#lights", "rotation": 90 },
+				"south": { "uv": [ 0, 11.25, 1.25, 11.5 ], "texture": "#texture", "rotation": 270 },
+				"west": { "uv": [ 1.125, 10, 1.25, 11.25 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "light_border 3 - 2",
+			"from": [ 3, 6, 6 ],
+			"to": [ 4, 6.5, 10 ],
+			"faces": {
+				"down": { "uv": [ 0.5, 9, 4.5, 10 ], "texture": "#lights", "rotation": 270 },
+				"up": { "uv": [ 0.125, 11.25, 1.125, 11.5 ], "texture": "#texture", "rotation": 270 },
+				"west": { "uv": [ 0.125, 10, 1.125, 10.125 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "light_border 3 - 3",
+			"from": [ 3, 1.5, 5.5 ],
+			"to": [ 4, 6.5, 6 ],
+			"faces": {
+				"down": { "uv": [ 0, 11.25, 0.125, 11.5 ], "texture": "#texture", "rotation": 270 },
+				"up": { "uv": [ 0.125, 11.25, 0, 11.5 ], "texture": "#texture", "rotation": 270 },
+				"north": { "uv": [ 0, 11.25, 1.25, 11.5 ], "texture": "#texture", "rotation": 90 },
+				"south": { "uv": [ 0.5, 9, 4.5, 10 ], "texture": "#lights", "rotation": 270 },
+				"west": { "uv": [ 0, 10, 0.125, 11.25 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "light_border 3 - ",
+			"from": [ 3, 1.5, 6 ],
+			"to": [ 4, 2, 10 ],
+			"faces": {
+				"down": { "uv": [ 0.125, 11.25, 1.125, 11.5 ], "texture": "#texture", "rotation": 270 },
+				"up": { "uv": [ 0.5, 9, 4.5, 10 ], "texture": "#lights", "rotation": 270 },
+				"west": { "uv": [ 0.125, 11.125, 1.125, 11.25 ], "texture": "#texture" }
 			}
 		}
 	],
