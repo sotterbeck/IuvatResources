@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "block/railing/railing_upper",
+		"particle": "block/railing/railing_upper"
+	},
+	"elements": [
+		{
+			"from": [0, 12, 6],
+			"to": [16, 16, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 2], "texture": "#0"},
+				"east": {"uv": [0, 8, 2, 10], "texture": "#0"},
+				"south": {"uv": [0, 2, 8, 4], "texture": "#0"},
+				"west": {"uv": [8, 0, 10, 2], "texture": "#0"},
+				"up": {"uv": [8, 6, 0, 4], "texture": "#0"},
+				"down": {"uv": [8, 6, 0, 8], "texture": "#0"}
+			}
+		}
+	]
+}
