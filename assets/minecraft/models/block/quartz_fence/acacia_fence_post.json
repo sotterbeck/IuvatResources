@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/quarz_fence/acacia_fence_post",
-		"particle": "block/quarz_fence/acacia_fence_post"
+		"0": "block/quartz_fence/acacia_fence_post",
+		"particle": "block/quartz_fence/acacia_fence_post"
 	},
 	"elements": [
 		{
