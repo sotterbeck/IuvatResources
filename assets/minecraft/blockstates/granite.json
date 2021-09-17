@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/granite/granite"},
+      {"model": "minecraft:block/granite/granite1"},
+      {"model": "minecraft:block/granite/granite2"},
+      {"model": "minecraft:block/granite/granite3"},
+      {"model": "minecraft:block/granite/granite4"},
+      {"model": "minecraft:block/granite/granite5"},
+      {"model": "minecraft:block/granite/granite6"},
+      {"model": "minecraft:block/granite/granite7"},
+      {"model": "minecraft:block/granite/granite8"},
+      {"model": "minecraft:block/granite/granite9"}
+    ]
+  }
+}

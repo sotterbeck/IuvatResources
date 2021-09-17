@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/dark_gravel/dark_gravel"},
+      {"model": "minecraft:block/dark_gravel/dark_gravel1"},
+      {"model": "minecraft:block/dark_gravel/dark_gravel2"},
+      {"model": "minecraft:block/dark_gravel/dark_gravel3"},
+      {"model": "minecraft:block/dark_gravel/dark_gravel4"},
+      {"model": "minecraft:block/dark_gravel/dark_gravel5"},
+      {"model": "minecraft:block/dark_gravel/dark_gravel6"},
+      {"model": "minecraft:block/dark_gravel/dark_gravel7"},
+      {"model": "minecraft:block/dark_gravel/dark_gravel8"}
+    ] 
+  }
+}
