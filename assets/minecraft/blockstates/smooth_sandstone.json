@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/sandstone/smooth_sandstone"},
+      {"model": "minecraft:block/sandstone/smooth_sandstone1"},
+      {"model": "minecraft:block/sandstone/smooth_sandstone2"},
+      {"model": "minecraft:block/sandstone/smooth_sandstone3"},
+      {"model": "minecraft:block/sandstone/smooth_sandstone4"},
+      {"model": "minecraft:block/sandstone/smooth_sandstone5"}
+    ]
+  }
+}
