@@ -31,6 +31,6 @@ Iuvat verwendet dieses Resourcepack für das Cities Projekt. Iuvat Resources wur
   
 ***
   
-[Iuvat Resources](https://github.com/SimBuildings/IuvatResources) von SimBuildings ist lizenziert unter [CC BY-NC-SA 4.0CC](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)    
+[Iuvat Resources](https://github.com/SimBuildings/IuvatResources) von AlexLuBBers, SimBuildings und weiteren Mitwirkenden ist lizenziert unter [CC BY-NC-SA 4.0CC](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)    
   
 ![CC BY-NC-SA 4.0CC Icons](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
