@@ -1,0 +1,6 @@
+{
+  "textures" : {
+    "all" : "minecraft:block/cracked_stone_bricks/cracked_stone_bricks_3"
+  },
+  "parent" : "minecraft:block/cube_all"
+}
