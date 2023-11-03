@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/oxidized_copper/oxidized_copper"},
+      {"model": "minecraft:block/oxidized_copper/oxidized_copper1"},
+      {"model": "minecraft:block/oxidized_copper/oxidized_copper2"},
+      {"model": "minecraft:block/oxidized_copper/oxidized_copper3"},
+      {"model": "minecraft:block/oxidized_copper/oxidized_copper4"}
+    ]
+  }
+}
