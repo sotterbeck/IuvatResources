@@ -1,17 +1,35 @@
 {
-    "variants": {
-        "type=bottom":[
-		{ "model": "block/bricks/brick_slab" },
-		{ "model": "block/bricks/brick_slab1" },
-		{ "model": "block/bricks/brick_slab2" }
+	"variants": {
+		"type=bottom": [
+			{
+				"model": "block/bricks/brick_slab"
+			},
+			{
+				"model": "block/bricks/brick_slab1"
+			},
+			{
+				"model": "block/bricks/brick_slab2"
+			},
+			{
+				"model": "block/bricks/brick_slab3"
+			}
 		],
-		
-        "type=top":[
-		{ "model": "block/bricks/brick_slab_top" },
-		{ "model": "block/bricks/brick_slab_top1" },
-		{ "model": "block/bricks/brick_slab_top2" }
+		"type=top": [
+			{
+				"model": "block/bricks/brick_slab_top"
+			},
+			{
+				"model": "block/bricks/brick_slab_top1"
+			},
+			{
+				"model": "block/bricks/brick_slab_top2"
+			},
+			{
+				"model": "block/bricks/brick_slab_top2"
+			}
 		],
-		
-        "type=double": { "model": "block/bricks" }
-    }
+		"type=double": {
+			"model": "block/bricks"
+		}
+	}
 }
