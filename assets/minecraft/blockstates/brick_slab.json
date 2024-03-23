@@ -12,6 +12,18 @@
 			},
 			{
 				"model": "block/bricks/brick_slab3"
+			},
+			{
+				"model": "block/bricks/brick_slab4"
+			},
+			{
+				"model": "block/bricks/brick_slab5"
+			},
+			{
+				"model": "block/bricks/brick_slab6"
+			},
+			{
+				"model": "block/bricks/brick_slab7"
 			}
 		],
 		"type=top": [
@@ -25,7 +37,19 @@
 				"model": "block/bricks/brick_slab_top2"
 			},
 			{
-				"model": "block/bricks/brick_slab_top2"
+				"model": "block/bricks/brick_slab_top3"
+			},
+			{
+				"model": "block/bricks/brick_slab_top4"
+			},
+			{
+				"model": "block/bricks/brick_slab_top5"
+			},
+			{
+				"model": "block/bricks/brick_slab_top6"
+			},
+			{
+				"model": "block/bricks/brick_slab_top7"
 			}
 		],
 		"type=double": {

@@ -2,7 +2,7 @@
     "parent": "block/slab_top",
     "textures": {
         "bottom": "block/bricks",
-        "top": "block/bricks/slab_brick_top1",
-        "side": "block/bricks/brick1"
+        "top": "block/bricks/slab_brick_top",
+        "side": "block/bricks/brick4"
     }
 }

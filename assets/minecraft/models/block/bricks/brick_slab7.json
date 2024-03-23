@@ -3,6 +3,6 @@
     "textures": {
         "bottom": "block/bricks",
         "top": "block/bricks/slab_brick_top3",
-        "side": "block/bricks/brick3"
+        "side": "block/bricks/brick7"
     }
 }
