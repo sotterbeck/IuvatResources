@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/oak_planks/oak_planks"
+      },
+      {
+        "model": "minecraft:block/oak_planks/oak_planks1"
+      },
+      {
+        "model": "minecraft:block/oak_planks/oak_planks2"
+      },
+      {
+        "model": "minecraft:block/oak_planks/oak_planks3"
+      },
+      {
+        "model": "minecraft:block/oak_planks/oak_planks4"
+      },
+      {
+        "model": "minecraft:block/oak_planks/oak_planks5"
+      },
+      {
+        "model": "minecraft:block/oak_planks/oak_planks6"
+      },
+      {
+        "model": "minecraft:block/oak_planks/oak_planks7"
+      }
+    ]
+  }
+}
