@@ -1,11 +1,30 @@
 {
-    "variants": {
-        "":[
-			 { "model": "block/sandstone/sandstone" },
-			 { "model": "block/sandstone/sandstone1" },
-			 { "model": "block/sandstone/sandstone2" },
-			 { "model": "block/sandstone/sandstone3" },
-			 { "model": "block/sandstone/sandstone4" }
+	"variants": {
+		"": [
+			{
+				"model": "block/sandstone/sandstone"
+			},
+			{
+				"model": "block/sandstone/sandstone1"
+			},
+			{
+				"model": "block/sandstone/sandstone2"
+			},
+			{
+				"model": "block/sandstone/sandstone3"
+			},
+			{
+				"model": "block/sandstone/sandstone4"
+			},
+			{
+				"model": "block/sandstone/sandstone5"
+			},
+			{
+				"model": "block/sandstone/sandstone6"
+			},
+			{
+				"model": "block/sandstone/sandstone7"
+			}
 		]
-    }
+	}
 }
