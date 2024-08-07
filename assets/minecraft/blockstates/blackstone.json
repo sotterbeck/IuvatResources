@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/blackstone/blackstone"
+      },
+      {
+        "model": "block/blackstone/blackstone1"
+      },
+      {
+        "model": "block/blackstone/blackstone2"
+      },
+      {
+        "model": "block/blackstone/blackstone3"
+      },
+      {
+        "model": "block/blackstone/blackstone4"
+      },
+      {
+        "model": "block/blackstone/blackstone5"
+      },
+      {
+        "model": "block/blackstone/blackstone6"
+      },
+      {
+        "model": "block/blackstone/blackstone7"
+      }
+    ]
+  }
+}
