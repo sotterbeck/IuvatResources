@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/exposed_cut_copper/exposed_cut_copper00"
+      },
+      {
+        "model": "minecraft:block/exposed_cut_copper/exposed_cut_copper01"
+      },
+      {
+        "model": "minecraft:block/exposed_cut_copper/exposed_cut_copper02"
+      },
+      {
+        "model": "minecraft:block/exposed_cut_copper/exposed_cut_copper03"
+      },
+      {
+        "model": "minecraft:block/exposed_cut_copper/exposed_cut_copper04"
+      }
+    ]
+  }
+}
