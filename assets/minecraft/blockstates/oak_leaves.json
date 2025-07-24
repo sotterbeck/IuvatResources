@@ -1,0 +1,126 @@
+{
+    "variants": {
+        "distance=7,persistent=true": [
+            {
+                "model": "block/leaves/oak/oak_leaves_big"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_small"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_detailed"
+            }
+        ],
+        "distance=6,persistent=true": [
+            {
+                "model": "block/leaves/oak/oak_leaves_big"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_small"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_detailed"
+            }
+        ],
+        "distance=5,persistent=true": [
+            {
+                "model": "block/leaves/oak/oak_leaves_big"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_small"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_detailed"
+            }
+        ],
+        "distance=4,persistent=true": [
+            {
+                "model": "block/leaves/oak/oak_leaves_big"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_small"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_detailed"
+            }
+        ],
+        "distance=3,persistent=true": [
+            {
+                "model": "block/leaves/oak/oak_leaves_big"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_small"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_detailed"
+            }
+        ],
+        "distance=2,persistent=true": {
+            "model": "block/leaves/oak/oak_leaves_detailed"
+        },
+        "distance=1,persistent=true": {
+            "model": "block/leaves/oak/oak_branches"
+        },
+        "distance=7,persistent=false": [
+            {
+                "model": "block/leaves/oak/oak_leaves_big"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_small"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_detailed"
+            }
+        ],
+        "distance=6,persistent=false": [
+            {
+                "model": "block/leaves/oak/oak_leaves_big"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_small"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_detailed"
+            }
+        ],
+        "distance=5,persistent=false": [
+            {
+                "model": "block/leaves/oak/oak_leaves_big"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_small"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_detailed"
+            }
+        ],
+        "distance=4,persistent=false": [
+            {
+                "model": "block/leaves/oak/oak_leaves_big"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_small"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_detailed"
+            }
+        ],
+        "distance=3,persistent=false": [
+            {
+                "model": "block/leaves/oak/oak_leaves_big"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_small"
+            },
+            {
+                "model": "block/leaves/oak/oak_leaves_detailed"
+            }
+        ],
+        "distance=2,persistent=false": {
+            "model": "block/leaves/oak/oak_leaves_detailed"
+        },
+        "distance=1,persistent=false": {
+            "model": "block/leaves/oak/oak_branches"
+        }
+    }
+}

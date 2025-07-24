@@ -33,6 +33,8 @@ Iuvat verwendet dieses Resourcepack für das Cities Projekt. Iuvat Resources wur
 [Krista's Better Walls](https://www.planetminecraft.com/texture-pack/krista-s-better-walls-a-wall-model-fix-addon/) von [1Krista](https://www.planetminecraft.com/member/1krista/) ist lizensiert unter [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 > IuvatResouces beinhaltet *Krista's Better Walls* Model Dateien (template_wall_side_tall.json, template_wall_side.json)
 
+[CubedPack 7.0](https://modrinth.com/resourcepack/cubed-textures/version/7.0) von [Cuped](https://modrinth.com/organization/cubed), [taraago](https://modrinth.com/user/taraago) und [Sjouwer](https://modrinth.com/user/Sjouwer) ist lizensiert unter [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+> IuvatResouces beinhaltet *CubedPack 7.0* Model- und Textur Dateien für leaves 
 
 [Iuvat Resources](https://github.com/SimBuildings/IuvatResources) von AlexLuBBers, SimBuildings und weiteren Mitwirkenden ist lizenziert unter [CC BY-NC-SA 4.0CC](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)    
   
