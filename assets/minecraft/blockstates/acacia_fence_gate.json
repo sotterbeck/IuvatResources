@@ -1,9 +1,8 @@
 {
   "variants": {
     "facing=east,in_wall=false,open=false": {
-      "model": "minecraft:block/acacia_fence_gate",
-      "uvlock": true,
-      "y": 270
+      "model": "minecraft:block/acacia_fence_gate_east",
+      "uvlock": true
     },
     "facing=east,in_wall=false,open=true": {
       "model": "minecraft:block/acacia_fence_gate_open",
@@ -21,9 +20,8 @@
       "y": 270
     },
     "facing=north,in_wall=false,open=false": {
-      "model": "minecraft:block/acacia_fence_gate",
-      "uvlock": true,
-      "y": 180
+      "model": "minecraft:block/acacia_fence_gate_north",
+      "uvlock": true
     },
     "facing=north,in_wall=false,open=true": {
       "model": "minecraft:block/acacia_fence_gate_open",
@@ -57,9 +55,8 @@
       "uvlock": true
     },
     "facing=west,in_wall=false,open=false": {
-      "model": "minecraft:block/acacia_fence_gate",
-      "uvlock": true,
-      "y": 90
+      "model": "minecraft:block/acacia_fence_gate_west",
+      "uvlock": true
     },
     "facing=west,in_wall=false,open=true": {
       "model": "minecraft:block/acacia_fence_gate_open",
