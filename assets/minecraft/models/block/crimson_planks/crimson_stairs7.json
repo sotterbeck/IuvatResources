@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "block/crimson_planks/crimson_planks06",
+    "top": "block/crimson_planks/crimson_planks06",
+    "side": "block/crimson_planks/crimson_planks06"
+  }
+}

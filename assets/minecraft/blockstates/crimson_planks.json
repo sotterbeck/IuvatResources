@@ -1,0 +1,27 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "block/crimson_planks/crimson_planks"
+            },
+            {
+                "model": "block/crimson_planks/crimson_planks1"
+            },
+            {
+                "model": "block/crimson_planks/crimson_planks2"
+            },
+            {
+                "model": "block/crimson_planks/crimson_planks3"
+            },
+            {
+                "model": "block/crimson_planks/crimson_planks4"
+            },
+            {
+                "model": "block/crimson_planks/crimson_planks5"
+            },
+            {
+                "model": "block/crimson_planks/crimson_planks6"
+            }
+        ]
+    }
+}
