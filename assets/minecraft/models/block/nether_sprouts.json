@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "block/moss_block_overlay/moss_block_overlay",
+		"particle": "block/moss_block_overlay/moss_block_overlay"
+	},
+	"elements": [
+		{
+			"from": [0, 0.4, 0],
+			"to": [16, 0.4, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0.4, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 2, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 2, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 2, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}
