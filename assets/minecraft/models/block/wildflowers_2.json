@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/flowerbed_2",
+	"textures": {
+		"flowerbed": "block/wildflowers",
+		"stem": "block/wildflowers_stem"
+	}
+}
