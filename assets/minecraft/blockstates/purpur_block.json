@@ -1,10 +1,30 @@
 {
-    "variants": {
-        "":[
-		{ "model": "block/purpur_block/purpur_block" },
-		{ "model": "block/purpur_block/purpur_block1" },
-		{ "model": "block/purpur_block/purpur_block2" },
-		{ "model": "block/purpur_block/purpur_block3" }
+	"variants": {
+		"": [
+			{
+				"model": "block/purpur_block/purpur_block"
+			},
+			{
+				"model": "block/purpur_block/purpur_block1"
+			},
+			{
+				"model": "block/purpur_block/purpur_block2"
+			},
+			{
+				"model": "block/purpur_block/purpur_block3"
+			},
+			{
+				"model": "block/purpur_block/purpur_block4"
+			},
+			{
+				"model": "block/purpur_block/purpur_block5"
+			},
+			{
+				"model": "block/purpur_block/purpur_block6"
+			},
+			{
+				"model": "block/purpur_block/purpur_block7"
+			}
 		]
-    }
+	}
 }
