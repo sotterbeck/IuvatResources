@@ -1,7 +1,6 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
-	"parent": "short_grass",
 	"texture_size": [
 		128,
 		128
@@ -22,7 +21,7 @@
 				16,
 				17
 			],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {
 				"angle": 22.5,
 				"axis": "y",
@@ -106,7 +105,7 @@
 				14,
 				7
 			],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {
 				"angle": -32.5,
 				"axis": "y",
@@ -188,7 +187,7 @@
 				16,
 				1
 			],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {
 				"angle": -15,
 				"axis": "y",
@@ -274,7 +273,7 @@
 				20,
 				16
 			],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {
 				"angle": 37.5,
 				"axis": "y",
@@ -356,7 +355,7 @@
 				13,
 				12
 			],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {
 				"angle": 35,
 				"axis": "y",
@@ -438,7 +437,7 @@
 				19,
 				15
 			],
-			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {
 				"angle": -20,
 				"axis": "y",

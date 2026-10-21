@@ -1,0 +1,13 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/acacia_leaves",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": -12012264
+      }
+    ]
+  },
+  "oversized_in_gui": true
+}

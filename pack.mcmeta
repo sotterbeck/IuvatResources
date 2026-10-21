@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 9,
-    "description": "\u00a7f\u00a7lIuvat Resources\u00a7r\n\u00a78>> \u00a7ev0.9.0"
+    "min_format": 97,
+    "max_format": 97,
+    "description": "§f§lIuvat Resources§r\n§8>> §ev0.9.0"
   }
 }
-
