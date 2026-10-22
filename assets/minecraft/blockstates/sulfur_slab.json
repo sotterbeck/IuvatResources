@@ -1,0 +1,82 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab1"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab2"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab3"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab4"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab5"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab6"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab7"
+      }
+    ],
+    "type=double": [
+      {
+        "model": "minecraft:block/sulfur/sulfur"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur1"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur2"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur3"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur4"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur5"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur6"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur7"
+      }
+    ],
+    "type=top": [
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab_top"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab_top1"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab_top2"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab_top3"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab_top4"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab_top5"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab_top6"
+      },
+      {
+        "model": "minecraft:block/sulfur/sulfur_slab_top7"
+      }
+    ]
+  }
+}

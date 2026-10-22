@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "minecraft:block/sulfur/sulfur",
+    "side": "minecraft:block/sulfur/sulfur",
+    "top": "minecraft:block/sulfur/sulfur"
+  }
+}

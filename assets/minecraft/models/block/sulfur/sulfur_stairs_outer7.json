@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "minecraft:block/sulfur/sulfur7",
+    "side": "minecraft:block/sulfur/sulfur7",
+    "top": "minecraft:block/sulfur/sulfur7"
+  }
+}
