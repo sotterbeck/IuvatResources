@@ -1,0 +1,82 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab1"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab2"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab3"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab4"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab5"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab6"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab7"
+      }
+    ],
+    "type=double": [
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_planks"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_planks1"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_planks2"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_planks3"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_planks4"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_planks5"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_planks6"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_planks7"
+      }
+    ],
+    "type=top": [
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab_top"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab_top1"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab_top2"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab_top3"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab_top4"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab_top5"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab_top6"
+      },
+      {
+        "model": "minecraft:block/pale_oak_planks/pale_oak_slab_top7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "multipart": [
+    {
+      "apply": [
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_post"
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_post1"
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_post2"
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_post3"
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_post4"
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_post5"
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_post6"
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_post7"
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side",
+          "uvlock": true
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side1",
+          "uvlock": true
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side2",
+          "uvlock": true
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side3",
+          "uvlock": true
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side4",
+          "uvlock": true
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side5",
+          "uvlock": true
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side6",
+          "uvlock": true
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side7",
+          "uvlock": true
+        }
+      ]
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side1",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side2",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side3",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side4",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side5",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side6",
+          "uvlock": true,
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side7",
+          "uvlock": true,
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side1",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side2",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side3",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side4",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side5",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side6",
+          "uvlock": true,
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side7",
+          "uvlock": true,
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side1",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side2",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side3",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side4",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side5",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side6",
+          "uvlock": true,
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/pale_oak_planks/pale_oak_fence_side7",
+          "uvlock": true,
+          "y": 270
+        }
+      ]
+    }
+  ]
+}

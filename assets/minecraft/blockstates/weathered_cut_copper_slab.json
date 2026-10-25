@@ -1,0 +1,82 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab1"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab2"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab3"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab4"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab5"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab6"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab7"
+      }
+    ],
+    "type=double": [
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper1"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper2"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper3"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper4"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper5"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper6"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper7"
+      }
+    ],
+    "type=top": [
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab_top"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab_top1"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab_top2"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab_top3"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab_top4"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab_top5"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab_top6"
+      },
+      {
+        "model": "minecraft:block/weathered_cut_copper/weathered_cut_copper_slab_top7"
+      }
+    ]
+  }
+}

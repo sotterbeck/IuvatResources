@@ -1,0 +1,8 @@
+{
+  "parent": "batch_baker:block/tinted/slab_top",
+  "textures": {
+    "bottom": "minecraft:block/weathered_cut_copper/weathered_cut_copper6",
+    "side": "minecraft:block/weathered_cut_copper/weathered_cut_copper6",
+    "top": "minecraft:block/weathered_cut_copper/weathered_cut_copper6"
+  }
+}

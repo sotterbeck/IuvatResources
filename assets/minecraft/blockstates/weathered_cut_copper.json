@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/weathered_cut_copper/weathered_cut_copper"},
+      {"model": "minecraft:block/weathered_cut_copper/weathered_cut_copper1"},
+      {"model": "minecraft:block/weathered_cut_copper/weathered_cut_copper2"},
+      {"model": "minecraft:block/weathered_cut_copper/weathered_cut_copper3"},
+      {"model": "minecraft:block/weathered_cut_copper/weathered_cut_copper4"},
+      {"model": "minecraft:block/weathered_cut_copper/weathered_cut_copper5"},
+      {"model": "minecraft:block/weathered_cut_copper/weathered_cut_copper6"},
+      {"model": "minecraft:block/weathered_cut_copper/weathered_cut_copper7"}
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "batch_baker:block/tinted/cube_all",
+  "textures": {
+    "all": "minecraft:block/weathered_cut_copper/weathered_cut_copper2"
+  }
+}

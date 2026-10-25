@@ -1,0 +1,8 @@
+{
+  "parent": "batch_baker:block/tinted/stairs",
+  "textures": {
+    "bottom": "minecraft:block/weathered_cut_copper/weathered_cut_copper1",
+    "side": "minecraft:block/weathered_cut_copper/weathered_cut_copper1",
+    "top": "minecraft:block/weathered_cut_copper/weathered_cut_copper1"
+  }
+}
