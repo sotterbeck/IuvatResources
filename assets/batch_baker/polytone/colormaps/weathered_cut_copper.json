@@ -2,6 +2,6 @@
   "x_axis": "biome_id",
   "y_axis": "zero",
   "biome_blend": true,
-  "default_color": 16777215,
+  "default_color": 10526880,
   "biome_id_mapper": "batch_baker:weathered_cut_copper"
 }

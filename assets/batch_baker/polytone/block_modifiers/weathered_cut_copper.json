@@ -4,5 +4,10 @@
     "minecraft:weathered_cut_copper_stairs",
     "minecraft:weathered_cut_copper_slab"
   ],
-  "colormap": "batch_baker:weathered_cut_copper"
+  "colormap": {
+    "default": "batch_baker:weathered_cut_copper",
+    "biomes": {
+      "minecraft:forest": 16769231
+    }
+  }
 }
